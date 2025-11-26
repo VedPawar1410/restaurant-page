@@ -4,7 +4,7 @@ import { menu } from "./menu.js";
 import { contact } from "./contact.js";
 
 //styles.css import
-
+import "./styles.css"
 
 // // CLEAR content first (optional, but good practice)
 // const content = document.getElementById("content");
